@@ -2,8 +2,8 @@
 ## Simple yet powerful automation stuffs  
   
   1. Code to pdf Converter: Converts and combines cpp files within a directory into a single pdf.  
-  2. Comics Scraper: Fetches comics from 'https:xkcd.com' and stores them in directory.
-  3. Instagram Scraper: Fetch all the images belonging to a particular user on instagram and store them in directory.[Demo](https://www.youtube.com/watch?v=n3JW35BYmzA)
+  2. Comics Scraper: Fetches comics from [xkcd.com](https:xkcd.com) and stores them in directory.
+  3. Instagram Scraper: Fetch all the images belonging to a particular user on instagram and store them in directory.[Live](https://www.youtube.com/watch?v=n3JW35BYmzA)
   4. Medium bookmarks downloader: Downloads all the bookmarks stored by user on medium.com
   5. PDF-to-text converter:Converts pdf to text
   6. Live Cricket Score Scraper: Fetches scores from cricinfo.com and displays it in tabular format in CLI
