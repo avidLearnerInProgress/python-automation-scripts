@@ -8,3 +8,4 @@
   5. PDF-to-text converter:Converts pdf to text
   6. Live Cricket Score Scraper: Fetches scores from cricinfo.com and displays it in tabular format in CLI
   7. Quora Image Scraper: Fetches images from quora answers and stores them in local directory
+  8. Quotes Scraper: Fetches quotes from goodreads.com and saves them into json file
