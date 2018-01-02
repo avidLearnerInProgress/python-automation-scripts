@@ -10,3 +10,4 @@
   7. Quora Image Scraper: Fetches images from quora answers and stores them in local directory
   8. Quotes Scraper: Fetches quotes from goodreads.com and saves them into json file
   9. IMDB Scraper: Fetches movie data from imdb.com and displays in pretty format using tabulate python package
+  10. Dictionary.com Scraper: Fetches word of the day from dictionary.com along with other details
