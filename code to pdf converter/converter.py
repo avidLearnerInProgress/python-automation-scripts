@@ -90,6 +90,8 @@ def generateMultiplePDF(path):
                 #print(c)
                 Popen('python code2pdf.py'+c,shell=True)
     return outputDirectory
+    
+    
 
 def main():
     print("Choose directory:")
