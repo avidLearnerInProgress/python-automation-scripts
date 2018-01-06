@@ -11,3 +11,5 @@
   8. Quotes Scraper: Fetches quotes from goodreads.com and saves them into json file
   9. IMDB Scraper: Fetches movie data from imdb.com and displays in pretty format using tabulate python package
   10. Dictionary.com Scraper: Fetches word of the day from dictionary.com along with other details
+  11. News Scraper-1: Fetches top technology news from techcrunch.com
+  12. News Scraper-2: Fetches top 30 tech news from news.ycombinator.com and stores them in csv format
