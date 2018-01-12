@@ -14,5 +14,5 @@
   11. News Scraper-1: Fetches top technology news from techcrunch.com
   12. News Scraper-2: Fetches top 30 technology news from news.ycombinator.com and stores them in csv format
   13. News Scraper-3: Fetches top 10 technology news from reuters.com and store them in csv format
-  14. News Scraper-3: Fetches top technology news from inshorts.com
+  14. News Scraper-4: Fetches top technology news from inshorts.com
   15. Internshala Scraper: Fetches internship details from internshala.com and stores them in database
