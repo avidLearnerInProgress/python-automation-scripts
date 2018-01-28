@@ -19,3 +19,4 @@
   16. Currency Converter: Uses fixer.io api to fetch real-time forex rates for currency conversion
   17. Cryptocurrency Converter: Uses cryptocompare api to perform various operations on cryptocurrency rates
   18. URL Shortener API: Performs url shortening using various services like goo.gl, bit.ly, tinyurl.com and is.gd
+  19. Google News Scraper: Search for google news from terminal
