@@ -23,3 +23,4 @@
   20. Youtube Downloader: Fetches user queries from youtube using google api and downloads them using youtube-dl
   21. Terminal Dictionary: Searches for word from terminal and displays its meaning to user
   22. Password Manager: Stores, Fetches, Updates and Removes password with the username provided. Used sqlalchemy for operations.
+  23. LinkedIn Scraper: Scrapes user profile (v1)
