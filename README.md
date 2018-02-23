@@ -25,3 +25,4 @@
   22. Password Manager: Stores, Fetches, Updates and Removes password with the username provided. Used sqlalchemy for operations.
   23. LinkedIn Scraper: Scrapes user profile (v1)
   24. Global Timer: Enter location/city name to get the associated time depending upon time zone.
+  25. Codechef Submission CLI Bot: Codechef bot to submit the solution of problems and get the result in CLI.
