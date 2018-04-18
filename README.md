@@ -28,3 +28,4 @@
   25. Codechef Submission CLI Bot: Codechef bot to submit the solution of problems and get the result in CLI.
   26. Indeed Scraper: Scrapes job listings on indeed.com and stores them in csv file.
   27. Wallpaper Scraper: Scrapes images from webpage and stores them in current directory
+  28. Ecommerce Scraper: Scrapes product data from ecommerce websites and displays it to user in CLI.
