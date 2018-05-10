@@ -27,6 +27,8 @@
   24. Global Timer: Enter location/city name to get the associated time depending upon time zone.
   25. Codechef Submission CLI Bot: Codechef bot to submit the solution of problems and get the result in CLI.
   26. Indeed Scraper: Scrapes job listings on indeed.com and stores them in csv file.
-  27. Wallpaper Scraper: Scrapes images from webpage and stores them in current directory
+  27. Wallpaper Scraper: Scrapes images from webpage and stores them in current directory.
   28. Ecommerce Scraper: Scrapes product data from ecommerce websites and displays it to user in CLI.  
-  29. Lyrics Scraper: Scrape lyrics from atozlyrics website by specifying artist name
+  29. Lyrics Scraper: Scrape lyrics from atozlyrics website by specifying artist name.
+  30. Walmart Scraper: Scrape data from walmart website and store it in database using MySQLdb.
+  
