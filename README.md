@@ -31,4 +31,5 @@
   28. Ecommerce Scraper: Scrapes product data from ecommerce websites and displays it to user in CLI.  
   29. Lyrics Scraper: Scrape lyrics from atozlyrics website by specifying artist name.
   30. Walmart Scraper: Scrape data from walmart website and store it in database using MySQLdb.
+  31. Twitter Scraper: Scrapes tweets from popular hashtags and saves them to csv file
   

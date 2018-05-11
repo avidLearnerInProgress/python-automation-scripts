@@ -9,19 +9,19 @@ import tweepy
 #This code is using AppAuthHandler, not OAuthHandler to get higher limits, 2.5 times.
 auth = tweepy.AppAuthHandler('j2UAZfXuk6iitAjnLjbFcmn0y', 'Q9X7g4eAhyElO8u5VI183QwRCUF1sXrZs8m9poGt6Q1pmN4cOw')
 api = tweepy.API(auth, wait_on_rate_limit=True,
-				   wait_on_rate_limit_notify=True)
+                   wait_on_rate_limit_notify=True)
 
 
 if (not api):
     print ("Can't Authenticate")
     sys.exit(-1)
 def clean(val):
-	clean = ""
-	if val:
-		clean = val.encode('utf-8')
-	return clean
+    clean = ""
+    if val:
+        clean = val.encode('utf-8')
+    return clean
 
-searchQuery = ''  #This is for your hasthag(s), separate by comma
+searchQuery = '#techsytalk'  #This is for your hasthag(s), separate by comma
 maxTweets = 80000 # Large max nr
 tweetsPerQry = 100  # the max the API permits
 fName = 'myfile.csv' #The CSV file where your tweets will be stored
@@ -62,7 +62,7 @@ with open(fName, 'w') as csvfile:
                 print("No more tweets found")
                 break
             for tweet in new_tweets:
-            	csvwriter.writerow([tweet.created_at, clean(tweet.user.screen_name), clean(tweet.text), tweet.user.created_at, tweet.user.followers_count, tweet.user.friends_count, tweet.user.statuses_count, clean(tweet.user.location), tweet.user.geo_enabled, tweet.user.lang, clean(tweet.user.time_zone), tweet.retweet_count]);
+                csvwriter.writerow([tweet.created_at, clean(tweet.user.screen_name), clean(tweet.text), tweet.user.created_at, tweet.user.followers_count, tweet.user.friends_count, tweet.user.statuses_count, clean(tweet.user.location), tweet.user.geo_enabled, tweet.user.lang, clean(tweet.user.time_zone), tweet.retweet_count]);
 
             tweetCount += len(new_tweets)
             #print("Downloaded {0} tweets".format(tweetCount))
