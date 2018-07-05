@@ -22,14 +22,15 @@
   19. Google News Scraper: Search for google news from terminal
   20. Youtube Downloader: Fetches user queries from youtube using google api and downloads them using youtube-dl
   21. Terminal Dictionary: Searches for word from terminal and displays its meaning to user
-  22. Password Manager: Stores, Fetches, Updates and Removes password with the username provided. Used sqlalchemy for operations.
+  22. Password Manager: Stores, Fetches, Updates and Removes password with the username provided. Used sqlalchemy for operations  
   23. LinkedIn Scraper: Scrapes user profile (v1)
-  24. Global Timer: Enter location/city name to get the associated time depending upon time zone.
-  25. Codechef Submission CLI Bot: Codechef bot to submit the solution of problems and get the result in CLI.
-  26. Indeed Scraper: Scrapes job listings on indeed.com and stores them in csv file.
-  27. Wallpaper Scraper: Scrapes images from webpage and stores them in current directory.
-  28. Ecommerce Scraper: Scrapes product data from ecommerce websites and displays it to user in CLI.  
-  29. Lyrics Scraper: Scrape lyrics from atozlyrics website by specifying artist name.
-  30. Walmart Scraper: Scrape data from walmart website and store it in database using MySQLdb.
-  31. Twitter Scraper: Scrapes tweets from popular hashtags and saves them to csv file
+  24. Global Timer: Enter location/city name to get the associated time depending upon time zone  
+  25. Codechef Submission CLI Bot: Codechef bot to submit the solution of problems and get the result in CLI  
+  26. Indeed Scraper: Scrapes job listings on indeed.com and stores them in csv file  
+  27. Wallpaper Scraper: Scrapes images from webpage and stores them in current directory  
+  28. Ecommerce Scraper: Scrapes product data from ecommerce websites and displays it to user in CLI  
+  29. Lyrics Scraper: Scrape lyrics from atozlyrics website by specifying artist name  
+  30. Walmart Scraper: Scrape data from walmart website and store it in database using MySQLdb  
+  31. Twitter Scraper: Scrapes tweets from popular hashtags and saves them to csv file  
+  32. Memrise Scraper: Get Barron's GRE words and their meanings from memrise.com  
   
