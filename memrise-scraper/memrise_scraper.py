@@ -6,16 +6,11 @@ memrise_url = "https://www.memrise.com/course/121215/barrons-800-essential-word-
 sentences_url = "http://sentence.yourdictionary.com/"
 mapping = dict()
 
-def write_to_file(combine, sentence_map):
+def write_to_file(combine, sentence_map, mapping):
 
-	with open("memrise_mapper.txt", 'r') as f:
-		contents = f.read()
-
-	with open("memrise_mapper.txt", 'a') as mfile:
+	with open("memrise_mapper_clean.txt", 'a') as mfile:
 		for ele in combine:
-			if ele[0] in contents:
-				print("Mapping already exists.")
-			else:
+			if ele[0] in mapping.keys():
 				writetotxt = str(ele[0]) + " => " + str(ele[1]) + "\n"
 				#mfile.write("!-------------------!\n")
 				mfile.write(writetotxt)
@@ -52,7 +47,7 @@ if __name__ == '__main__':
 			word = w.find("div", class_ = "col_a col text")
 			meaning = w.find("div", class_ = "col_b col text")
 			sentence = sentences_url + word.text
-			time.sleep(1)
+			time.sleep(1.5)
 			try:
 				sentences = get_sentences(sentence)
 				sentences = sentences[:3]
@@ -64,7 +59,7 @@ if __name__ == '__main__':
 			if word.text not in mapping:
 				mapping[word.text] = meaning.text
 				antimapping = dict((y, x) for x,y in mapping.items())
-		write_to_file(combine, sentence_map)
+		write_to_file(combine, sentence_map, mapping)
 		sentence_map.clear()
 		combine.clear()
 		time.sleep(5)
