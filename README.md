@@ -33,4 +33,4 @@
   30. Walmart Scraper: Scrape data from walmart website and store it in database using MySQLdb  
   31. Twitter Scraper: Scrapes tweets from popular hashtags and saves them to csv file  
   32. Memrise Scraper: Get Barron's GRE words and their meanings from memrise.com  
-  
+  33. Highscalability Scraper: Scrape article names and url's from website(Work in progress)
