@@ -1,0 +1,134 @@
+Stuff The Internet Says On Scalability For June 29th, 2018-->http://highscalability.com/blog/2018/6/29/stuff-the-internet-says-on-scalability-for-june-29th-2018.html
+Stuff The Internet Says On Scalability For June 28, 2013-->http://highscalability.com/blog/2013/6/28/stuff-the-internet-says-on-scalability-for-june-28-2013.html
+Strategy: Get Servers for Free and Make Users Happy by Turning on Compression-->http://highscalability.com/blog/2012/5/30/strategy-get-servers-for-free-and-make-users-happy-by-turnin.html
+Stuff The Internet Says On Scalability For December 23rd, 2016-->http://highscalability.com/blog/2016/12/23/stuff-the-internet-says-on-scalability-for-december-23rd-201.html
+Stuff The Internet Says On Scalability For November 30, 2012-->http://highscalability.com/blog/2012/11/30/stuff-the-internet-says-on-scalability-for-november-30-2012.html
+15 Ways to Make Your Application Feel More Responsive under Google App Engine-->http://highscalability.com/blog/2011/10/31/15-ways-to-make-your-application-feel-more-responsive-under.html
+Stuff The Internet Says On Scalability For November 27th, 2015-->http://highscalability.com/blog/2015/11/27/stuff-the-internet-says-on-scalability-for-november-27th-201.html
+Creating a high-performing online database -->http://highscalability.com/blog/2008/11/30/creating-a-high-performing-online-database.html
+Stuff The Internet Says On Scalability For February 28th, 2014-->http://highscalability.com/blog/2014/2/28/stuff-the-internet-says-on-scalability-for-february-28th-201.html
+Scalability Worst Practices-->http://highscalability.com/blog/2008/9/30/scalability-worst-practices.html
+memcached and Storage of Friend list-->http://highscalability.com/blog/2008/5/31/memcached-and-storage-of-friend-list.html
+Sponsored Post: Spotify, Telenor Digital, Kinsta, Aerospike, InMemory.Net, VividCortex, MemSQL, Scalyr, AiScaler, AppDynamics, ManageEngine, Site24x7-->http://highscalability.com/blog/2016/5/12/sponsored-post-spotify-telenor-digital-kinsta-aerospike-inme.html
+Stuff The Internet Says On Scalability For September 29th, 2017-->http://highscalability.com/blog/2017/9/29/stuff-the-internet-says-on-scalability-for-september-29th-20.html
+Stuff The Internet Says On Scalability For May 31, 2013-->http://highscalability.com/blog/2013/5/31/stuff-the-internet-says-on-scalability-for-may-31-2013.html
+Rather small site architecture.-->http://highscalability.com/blog/2008/4/30/rather-small-site-architecture.html
+Sponsored Post: InnoGames, Contentful, Stream, Loupe, New York Times, Scalyr, VividCortex, MemSQL, InMemory.Net, Zohocorp-->http://highscalability.com/blog/2017/1/31/sponsored-post-innogames-contentful-stream-loupe-new-york-ti.html
+NoCAP – Part III – GigaSpaces clustering explained..-->http://highscalability.com/blog/2010/11/30/nocap-part-iii-gigaspaces-clustering-explained.html
+Future Tidal Wave of Mobile Video-->http://highscalability.com/blog/2016/10/20/future-tidal-wave-of-mobile-video.html
+Hot Scalability Links for April 30, 2010-->http://highscalability.com/blog/2010/4/30/hot-scalability-links-for-april-30-2010.html
+Scaling Hotjar's Architecture: 9 Lessons Learned-->http://highscalability.com/blog/2016/6/29/scaling-hotjars-architecture-9-lessons-learned.html
+Stuff The Internet Says On Scalability For October 31st, 2014-->http://highscalability.com/blog/2014/10/31/stuff-the-internet-says-on-scalability-for-october-31st-2014.html
+More Troubles with Caching-->http://highscalability.com/blog/2010/9/30/more-troubles-with-caching.html
+Scaling MySQL on Amazon Web Services-->http://highscalability.com/blog/2009/8/31/scaling-mysql-on-amazon-web-services.html
+Pud is the Anti-Stack - Windows, CFML, Dropbox, Xeround, JungleDisk, ELB-->http://highscalability.com/blog/2011/8/31/pud-is-the-anti-stack-windows-cfml-dropbox-xeround-jungledis.html
+Pomegranate - Storing Billions and Billions of Tiny Little Files-->http://highscalability.com/blog/2010/8/30/pomegranate-storing-billions-and-billions-of-tiny-little-fil.html
+Sponsored Post: Symbiont, Loupe, Etleap, Aerospike, Stream, Scalyr, VividCortex, Domino Data Lab, MemSQL, Zohocorp-->http://highscalability.com/blog/2017/11/21/sponsored-post-symbiont-loupe-etleap-aerospike-stream-scalyr.html
+Product: collectd-->http://highscalability.com/blog/2007/12/31/product-collectd.html
+Terrastore - Scalable, elastic, consistent document store.-->http://highscalability.com/blog/2009/12/30/terrastore-scalable-elastic-consistent-document-store.html
+Basho Lives up to their Name With Consistent Smashing-->http://highscalability.com/blog/2010/7/30/basho-lives-up-to-their-name-with-consistent-smashing.html
+Why Existing Databases (RAC) are So Breakable!-->http://highscalability.com/blog/2009/11/30/why-existing-databases-rac-are-so-breakable.html
+Kosmos File System (KFS) is a New High End Google File System Option-->http://highscalability.com/blog/2007/9/28/kosmos-file-system-kfs-is-a-new-high-end-google-file-system.html
+Expandability: Steve Wozniak's Biggest Success and Nolan Bushnell's Biggest Regret-->http://highscalability.com/blog/2013/9/30/expandability-steve-wozniaks-biggest-success-and-nolan-bushn.html
+Stuff The Internet Says On Scalability For December 30, 2011-->http://highscalability.com/blog/2011/12/30/stuff-the-internet-says-on-scalability-for-december-30-2011.html
+Sponsored Post: MongoDB, Aerospike, Nervana, SignalFx, InMemory.Net, Couchbase, VividCortex, Transversal, MemSQL, Scalyr, AiScaler, AppDynamics, ManageEngine, Site24x7-->http://highscalability.com/blog/2015/3/31/sponsored-post-mongodb-aerospike-nervana-signalfx-inmemoryne.html
+Scalable federated security with Kerberos -->http://highscalability.com/blog/2010/5/31/scalable-federated-security-with-kerberos.html
+Sponsored Post: Twitch, InMemory.Net, Triplebyte, Etleap, Stream, Scalyr, MemSQL-->http://highscalability.com/blog/2018/10/30/sponsored-post-twitch-inmemorynet-triplebyte-etleap-stream-s.html
+Paper: GargantuanComputing—GRIDs and P2P-->http://highscalability.com/blog/2008/8/30/paper-gargantuancomputinggrids-and-p2p.html
+Linus: The whole "parallel computing is the future" is a bunch of crock.-->http://highscalability.com/blog/2014/12/31/linus-the-whole-parallel-computing-is-the-future-is-a-bunch.html
+MySQL and Memcached: End of an Era?-->http://highscalability.com/blog/2010/2/26/mysql-and-memcached-end-of-an-era.html
+Prismatic Architecture - Using Machine Learning on Social Networks to Figure Out What You Should Read on the Web -->http://highscalability.com/blog/2012/7/30/prismatic-architecture-using-machine-learning-on-social-netw.html
+Building Globally Distributed, Mission Critical Applications:  Lessons From the Trenches Part 1-->http://highscalability.com/blog/2015/8/31/building-globally-distributed-mission-critical-applications.html
+Sponsored Post: Netflix, Logentries, Host Color, Booking, Spokeo, Apple, ScaleOut, MongoDB, BlueStripe, AiScaler, Aerospike, New Relic, LogicMonitor, AppDynamics, ManageEngine, Site24x7-->http://highscalability.com/blog/2013/12/24/sponsored-post-netflix-logentries-host-color-booking-spokeo.html
+Awesome List of Advanced Distributed Systems Papers-->http://highscalability.com/blog/2011/5/31/awesome-list-of-advanced-distributed-systems-papers.html
+Read HighScalability on Your Mobile Phone Using WidSets Widgets-->http://highscalability.com/blog/2008/3/31/read-highscalability-on-your-mobile-phone-using-widsets-widg.html
+Olio Web2.0 Toolkit - Evaluate Web Technologies and Tools-->http://highscalability.com/blog/2008/10/30/olio-web20-toolkit-evaluate-web-technologies-and-tools.html
+Sponsored Post: Aerospike, Loupe, Clubhouse, GoCardless, Auth0, InnoGames, Contentful, Stream, Scalyr, VividCortex, MemSQL, InMemory.Net, Zohocorp-->http://highscalability.com/blog/2017/2/28/sponsored-post-aerospike-loupe-clubhouse-gocardless-auth0-in.html
+Masstree - Much Faster than MongoDB, VoltDB, Redis, and Competitive with Memcached-->http://highscalability.com/blog/2012/4/30/masstree-much-faster-than-mongodb-voltdb-redis-and-competiti.html
+Performance in the Cloud: Business Jitter is Bad-->http://highscalability.com/blog/2012/1/31/performance-in-the-cloud-business-jitter-is-bad.html
+Sponsored Post: Apple, Flipboard, All Your Base, Scalyr, FoundationDB, AiScaler, Aerospike, AppDynamics, ManageEngine, Site24x7-->http://highscalability.com/blog/2014/9/30/sponsored-post-apple-flipboard-all-your-base-scalyr-foundati.html
+Sponsored Post: Apple, Blizzard Entertainment, Cloudant, CopperEgg, Logentries, Wargaming.net, PagerDuty, HelloSign, CrowdStrike, Gengo, ScaleOut Software, Couchbase, MongoDB, BlueStripe, AiScaler, Aerospike, LogicMonitor, AppDynamics, ManageEngine, Site24x7  -->http://highscalability.com/blog/2014/5/27/sponsored-post-apple-blizzard-entertainment-cloudant-coppere.html
+Paper: Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask-->http://highscalability.com/blog/2013/10/31/paper-everything-you-always-wanted-to-know-about-synchroniza.html
+Stuff The Internet Says On Scalability For July 31st, 2015-->http://highscalability.com/blog/2015/7/31/stuff-the-internet-says-on-scalability-for-july-31st-2015.html
+Paper: ZooKeeper: Wait-free coordination for Internet-scale systems-->http://highscalability.com/blog/2014/7/31/paper-zookeeper-wait-free-coordination-for-internet-scale-sy.html
+How Ravelry Scales to 10 Million Requests Using Rails-->http://highscalability.com/blog/2009/9/22/how-ravelry-scales-to-10-million-requests-using-rails.html
+Stuff The Internet Says On Scalability For August 29th, 2014-->http://highscalability.com/blog/2014/8/29/stuff-the-internet-says-on-scalability-for-august-29th-2014.html
+Stuff The Internet Says On Scalability For July 29, 2011-->http://highscalability.com/blog/2011/7/29/stuff-the-internet-says-on-scalability-for-july-29-2011.html
+Sponsored Post: Apple, Surge, Change, Booking, Rackspace, aiCache, Aerospike, ScaleOut, New Relic, LogicMonitor, AppDynamics, ManageEngine, Site24x7-->http://highscalability.com/blog/2013/7/23/sponsored-post-apple-surge-change-booking-rackspace-aicache.html
+Paper: Dynamo: Amazon’s Highly Available Key-value Store-->http://highscalability.com/blog/2007/10/30/paper-dynamo-amazons-highly-available-key-value-store.html
+Fighting the Ecosystem Wars in the Proactive Cloud-->http://highscalability.com/blog/2018/11/7/fighting-the-ecosystem-wars-in-the-proactive-cloud.html
+Make Any Framework Suck Less With These 10 Insightful Lessons-->http://highscalability.com/blog/2014/11/26/make-any-framework-suck-less-with-these-10-insightful-lesson.html
+Event: MySQL Conference & Expo 2009-->http://highscalability.com/blog/2009/1/30/event-mysql-conference-expo-2009.html
+Paper: GraphLab: A New Framework For Parallel Machine Learning-->http://highscalability.com/blog/2010/6/30/paper-graphlab-a-new-framework-for-parallel-machine-learning.html
+Stuff The Internet Says On Scalability For January 30th, 2015-->http://highscalability.com/blog/2015/1/30/stuff-the-internet-says-on-scalability-for-january-30th-2015.html
+PaaS on OpenStack - Run Applications on Any Cloud, Any Time Using Any Thing-->http://highscalability.com/blog/2011/4/28/paas-on-openstack-run-applications-on-any-cloud-any-time-usi.html
+Ehcache - A Java Distributed Cache -->http://highscalability.com/blog/2008/7/29/ehcache-a-java-distributed-cache.html
+How WhatsApp Grew to Nearly 500 Million Users, 11,000 cores, and 70 Million Messages a Second-->http://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html
+One Story of Life as Told Through Queues-->http://highscalability.com/blog/2013/11/29/one-story-of-life-as-told-through-queues.html
+Paper: DNACloud: A Tool for Storing Big Data on DNA-->http://highscalability.com/blog/2015/4/29/paper-dnacloud-a-tool-for-storing-big-data-on-dna.html
+Stuff The Internet Says On Scalability For July 29th, 2016-->http://highscalability.com/blog/2016/7/29/stuff-the-internet-says-on-scalability-for-july-29th-2016.html
+Designing for Resiliency will be so 2013-->http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html
+Stuff The Internet Says On Scalability For March 30, 2012-->http://highscalability.com/blog/2012/3/30/stuff-the-internet-says-on-scalability-for-march-30-2012.html
+Stuff The Internet Says On Scalability For May 26th, 2017-->http://highscalability.com/blog/2017/5/26/stuff-the-internet-says-on-scalability-for-may-26th-2017.html
+Strategy: Efficiently Geo-referencing IPs-->http://highscalability.com/blog/2007/11/30/strategy-efficiently-geo-referencing-ips.html
+How to Make Your Database 200x Faster Without Having to Pay More?-->http://highscalability.com/blog/2016/11/28/how-to-make-your-database-200x-faster-without-having-to-pay.html
+Strategy: Taming Linux Scheduler Jitter Using CPU Isolation and Thread Affinity-->http://highscalability.com/blog/2015/9/30/strategy-taming-linux-scheduler-jitter-using-cpu-isolation-a.html
+Sponsored Post: Close.io, Loupe, Etleap, Aerospike, Stream, Scalyr, VividCortex, Domino Data Lab, MemSQL, InMemory.Net, Zohocorp-->http://highscalability.com/blog/2017/8/29/sponsored-post-closeio-loupe-etleap-aerospike-stream-scalyr.html
+Need help on Site loading & database optimization - URGENT-->http://highscalability.com/blog/2009/5/31/need-help-on-site-loading-database-optimization-urgent.html
+My Test Tube Filled with DNA is Better than Your Mesos Cluster-->http://highscalability.com/blog/2016/8/31/my-test-tube-filled-with-dna-is-better-than-your-mesos-clust.html
+Stuff The Internet Says On Scalability For June 29, 2012 - The Velocity Edition-->http://highscalability.com/blog/2012/6/29/stuff-the-internet-says-on-scalability-for-june-29-2012-the.html
+Stuff The Internet Says On Scalability For March 30th, 2018-->http://highscalability.com/blog/2018/3/30/stuff-the-internet-says-on-scalability-for-march-30th-2018.html
+Strategy: Put Mobile Video Into Cold Storage After 30 Days-->http://highscalability.com/blog/2012/2/29/strategy-put-mobile-video-into-cold-storage-after-30-days.html
+Hot Scalabilty Links for October 30 2009-->http://highscalability.com/blog/2009/10/30/hot-scalabilty-links-for-october-30-2009.html
+A Practical Guide to Varnish - Why Varnish Matters-->http://highscalability.com/blog/2011/2/28/a-practical-guide-to-varnish-why-varnish-matters.html
+Stuff The Internet Says On Scalability For July 28th, 2017s-->http://highscalability.com/blog/2017/7/28/stuff-the-internet-says-on-scalability-for-july-28th-2017s.html
+Stuff The Internet Says On Scalability For May 29th, 2015-->http://highscalability.com/blog/2015/5/29/stuff-the-internet-says-on-scalability-for-may-29th-2015.html
+Sponsored Post: Triplebyte, Exoscale, Symbiont, Loupe, Etleap, Aerospike, Stream, Scalyr, VividCortex, Domino Data Lab, MemSQL, Zohocorp-->http://highscalability.com/blog/2018/1/30/sponsored-post-triplebyte-exoscale-symbiont-loupe-etleap-aer.html
+Ebay history and architecture-->http://highscalability.com/blog/2009/3/31/ebay-history-and-architecture.html
+NoSQL Took Away the Relational Model and Gave Nothing Back-->http://highscalability.com/blog/2010/10/28/nosql-took-away-the-relational-model-and-gave-nothing-back.html
+Stuff The Internet Says On Scalability For April 28th, 2017-->http://highscalability.com/blog/2017/4/28/stuff-the-internet-says-on-scalability-for-april-28th-2017.html
+Stuff The Internet Says On Scalability For September 30th, 2016-->http://highscalability.com/blog/2016/9/30/stuff-the-internet-says-on-scalability-for-september-30th-20.html
+Should Apple Build their Own Cloud?-->http://highscalability.com/blog/2016/3/30/should-apple-build-their-own-cloud.html
+Stuff The Internet Says On Scalability For October 30th, 2015-->http://highscalability.com/blog/2015/10/30/stuff-the-internet-says-on-scalability-for-october-30th-2015.html
+The AOL XMPP scalability challenge-->http://highscalability.com/blog/2008/1/30/the-aol-xmpp-scalability-challenge.html
+Gone Fishin'-->http://highscalability.com/blog/2017/6/2/gone-fishin.html
+Stuff The Internet Says On Scalability For August 31st, 2018-->http://highscalability.com/blog/2018/8/31/stuff-the-internet-says-on-scalability-for-august-31st-2018.html
+Facebook in 20 Minutes: 2.7M Photos, 10.2M Comments, 4.6M Messages-->http://highscalability.com/blog/2010/12/31/facebook-in-20-minutes-27m-photos-102m-comments-46m-messages.html
+42 Monster Problems that Attack as Loads Increase-->http://highscalability.com/blog/2013/2/27/42-monster-problems-that-attack-as-loads-increase.html
+How to Configure Alerts to Prevent Too Many Server Notifications-->http://highscalability.com/blog/2015/6/15/how-to-configure-alerts-to-prevent-too-many-server-notificat.html
+Log Everything All the Time-->http://highscalability.com/blog/2007/8/30/log-everything-all-the-time.html
+Stuff The Internet Says On Scalability For August 30, 2013-->http://highscalability.com/blog/2013/8/30/stuff-the-internet-says-on-scalability-for-august-30-2013.html
+Hot Scalability Links for January 28 2010-->http://highscalability.com/blog/2010/1/27/hot-scalability-links-for-january-28-2010.html
+Stuff The Internet Says On Scalability For September 28, 2012-->http://highscalability.com/blog/2012/9/28/stuff-the-internet-says-on-scalability-for-september-28-2012.html
+Hot New Trend: Linking Clouds Through Cheap IP VPNs Instead of Private Lines -->http://highscalability.com/blog/2009/6/30/hot-new-trend-linking-clouds-through-cheap-ip-vpns-instead-o.html
+Stuff The Internet Says On Scalability For February 27th, 2015-->http://highscalability.com/blog/2015/2/27/stuff-the-internet-says-on-scalability-for-february-27th-201.html
+Stuff The Internet Says On Scalability For January 29th, 2016-->http://highscalability.com/blog/2016/1/29/stuff-the-internet-says-on-scalability-for-january-29th-2016.html
+Product: System Imager - Automate Deployment and Installs-->http://highscalability.com/blog/2008/2/27/product-system-imager-automate-deployment-and-installs.html
+Data Doesn't Need to Be Free, But it Does Need to Have Sex -->http://highscalability.com/blog/2014/6/30/data-doesnt-need-to-be-free-but-it-does-need-to-have-sex.html
+Stuff The Internet Says On Scalability For January 31st, 2014-->http://highscalability.com/blog/2014/1/31/stuff-the-internet-says-on-scalability-for-january-31st-2014.html
+Better Browser Caching is More Important than No Javascript or Fast Networks for HTTP Performance-->http://highscalability.com/blog/2013/1/30/better-browser-caching-is-more-important-than-no-javascript.html
+How to choose an in-memory NoSQL solution: Performance measuring-->http://highscalability.com/blog/2015/12/30/how-to-choose-an-in-memory-nosql-solution-performance-measur.html
+Gone Fishin': LiveJournal Architecture-->http://highscalability.com/blog/2012/10/31/gone-fishin-livejournal-architecture.html
+Stuff The Internet Says On Scalability For September 30, 2011-->http://highscalability.com/blog/2011/9/30/stuff-the-internet-says-on-scalability-for-september-30-2011.html
+Sponsored Post: Spotify, Evernote, Surge, Rackspace, Simple, Amazon, Booking, aiCache, Aerospike, Percona, ScaleOut, New Relic, LogicMonitor, AppDynamics, ManageEngine, Site24x7-->http://highscalability.com/blog/2013/4/30/sponsored-post-spotify-evernote-surge-rackspace-simple-amazo.html
+ID generation schemes-->http://highscalability.com/blog/2008/6/29/id-generation-schemes.html
+Stuff The Internet Says On Scalability For March 31st, 2017-->http://highscalability.com/blog/2017/3/31/stuff-the-internet-says-on-scalability-for-march-31st-2017.html
+Stuff The Internet Says On Scalability For August 31, 2012-->http://highscalability.com/blog/2012/8/30/stuff-the-internet-says-on-scalability-for-august-31-2012.html
+10 Tips for Optimizing NGINX and PHP-fpm for High Traffic Sites-->http://highscalability.com/blog/2014/4/30/10-tips-for-optimizing-nginx-and-php-fpm-for-high-traffic-si.html
+DataSift Architecture: Realtime Datamining at 120,000 Tweets Per Second-->http://highscalability.com/blog/2011/11/29/datasift-architecture-realtime-datamining-at-120000-tweets-p.html
+Stuff The Internet Says On Scalability For July 27th, 2018-->http://highscalability.com/blog/2018/7/26/stuff-the-internet-says-on-scalability-for-july-27th-2018.html
+Stuff The Internet Says On Scalability For October 27th, 2017-->http://highscalability.com/blog/2017/10/27/stuff-the-internet-says-on-scalability-for-october-27th-2017.html
+Explain the Cloud Like I'm 10-->http://highscalability.com/blog/2017/12/18/explain-the-cloud-like-im-10.html
+Stuff The Internet Says On Scalability For September 28th, 2018-->http://highscalability.com/blog/2018/9/28/stuff-the-internet-says-on-scalability-for-september-28th-20.html
+Presentations: MySQL Conference & Expo 2009-->http://highscalability.com/blog/2009/4/29/presentations-mysql-conference-expo-2009.html
+Sponsored Post: Clover, Triplebyte, Exoscale, Symbiont, Loupe, Etleap, Aerospike, Scalyr, Domino Data Lab, MemSQL-->http://highscalability.com/blog/2018/2/27/sponsored-post-clover-triplebyte-exoscale-symbiont-loupe-etl.html
+A Journey Through How Zapier Automates Billions of Workflow Automation Tasks-->http://highscalability.com/blog/2016/2/29/a-journey-through-how-zapier-automates-billions-of-workflow.html
+NSFW: Hilarious Fault-Tolerance Cartoon -->http://highscalability.com/blog/2009/7/31/nsfw-hilarious-fault-tolerance-cartoon.html
+Second Hand Seizure : A New Cause of Site Death-->http://highscalability.com/blog/2011/6/29/second-hand-seizure-a-new-cause-of-site-death.html
+8 Lessons We Can Learn from the MySpace Incident - Balance, Vision, Fearlessness-->http://highscalability.com/blog/2011/3/31/8-lessons-we-can-learn-from-the-myspace-incident-balance-vis.html
+Stuff The Internet Says On Scalability For January 28, 2011-->http://highscalability.com/blog/2011/1/28/stuff-the-internet-says-on-scalability-for-january-28-2011.html
+Stuff The Internet Says On Scalability For April 29th, 2016-->http://highscalability.com/blog/2016/4/29/stuff-the-internet-says-on-scalability-for-april-29th-2016.html
+Running Large Graph Algorithms - Evaluation of Current State-of-the-Art and Lessons Learned-->http://highscalability.com/blog/2010/3/30/running-large-graph-algorithms-evaluation-of-current-state-o.html
+Scalability Perspectives #5: Werner Vogels – The Amazon Technology Platform-->http://highscalability.com/blog/2008/12/30/scalability-perspectives-5-werner-vogels-the-amazon-technolo.html
+Enterprise Architecture Conference by - John Zachman. Johannesburg (25th March) , Cape Town (27Th March)  Dubai (23rd March)-->http://highscalability.com/blog/2009/2/25/enterprise-architecture-conference-by-john-zachman-johannesb.html
+Stuff The Internet Says On Scalability For March 29, 2013-->http://highscalability.com/blog/2013/3/29/stuff-the-internet-says-on-scalability-for-march-29-2013.html

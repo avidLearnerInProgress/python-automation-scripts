@@ -1,0 +1,135 @@
+Fighting the Ecosystem Wars in the Proactive Cloud
+Sponsored Post: Twitch, InMemory.Net, Triplebyte, Etleap, Stream, Scalyr, MemSQL
+Stuff The Internet Says On Scalability For September 28th, 2018
+Stuff The Internet Says On Scalability For August 31st, 2018
+Stuff The Internet Says On Scalability For July 27th, 2018
+Stuff The Internet Says On Scalability For June 29th, 2018
+Gone Fishin'
+Stuff The Internet Says On Scalability For March 30th, 2018
+Sponsored Post: Clover, Triplebyte, Exoscale, Symbiont, Loupe, Etleap, Aerospike, Scalyr, Domino Data Lab, MemSQL
+Sponsored Post: Triplebyte, Exoscale, Symbiont, Loupe, Etleap, Aerospike, Stream, Scalyr, VividCortex, Domino Data Lab, MemSQL, Zohocorp
+Explain the Cloud Like I'm 10
+Sponsored Post: Symbiont, Loupe, Etleap, Aerospike, Stream, Scalyr, VividCortex, Domino Data Lab, MemSQL, Zohocorp
+Stuff The Internet Says On Scalability For October 27th, 2017
+Stuff The Internet Says On Scalability For September 29th, 2017
+Sponsored Post: Close.io, Loupe, Etleap, Aerospike, Stream, Scalyr, VividCortex, Domino Data Lab, MemSQL, InMemory.Net, Zohocorp
+Stuff The Internet Says On Scalability For July 28th, 2017s
+Gone Fishin'
+Stuff The Internet Says On Scalability For May 26th, 2017
+Stuff The Internet Says On Scalability For April 28th, 2017
+Stuff The Internet Says On Scalability For March 31st, 2017
+Sponsored Post: Aerospike, Loupe, Clubhouse, GoCardless, Auth0, InnoGames, Contentful, Stream, Scalyr, VividCortex, MemSQL, InMemory.Net, Zohocorp
+Sponsored Post: InnoGames, Contentful, Stream, Loupe, New York Times, Scalyr, VividCortex, MemSQL, InMemory.Net, Zohocorp
+Stuff The Internet Says On Scalability For December 23rd, 2016
+How to Make Your Database 200x Faster Without Having to Pay More?
+Future Tidal Wave of Mobile Video
+Stuff The Internet Says On Scalability For September 30th, 2016
+My Test Tube Filled with DNA is Better than Your Mesos Cluster
+Stuff The Internet Says On Scalability For July 29th, 2016
+Scaling Hotjar's Architecture: 9 Lessons Learned
+Sponsored Post: Spotify, Telenor Digital, Kinsta, Aerospike, InMemory.Net, VividCortex, MemSQL, Scalyr, AiScaler, AppDynamics, ManageEngine, Site24x7
+Stuff The Internet Says On Scalability For April 29th, 2016
+Should Apple Build their Own Cloud?
+A Journey Through How Zapier Automates Billions of Workflow Automation Tasks
+Stuff The Internet Says On Scalability For January 29th, 2016
+How to choose an in-memory NoSQL solution: Performance measuring
+Stuff The Internet Says On Scalability For November 27th, 2015
+Stuff The Internet Says On Scalability For October 30th, 2015
+Strategy: Taming Linux Scheduler Jitter Using CPU Isolation and Thread Affinity
+Building Globally Distributed, Mission Critical Applications:  Lessons From the Trenches Part 1
+Stuff The Internet Says On Scalability For July 31st, 2015
+How to Configure Alerts to Prevent Too Many Server Notifications
+Stuff The Internet Says On Scalability For May 29th, 2015
+Paper: DNACloud: A Tool for Storing Big Data on DNA
+Sponsored Post: MongoDB, Aerospike, Nervana, SignalFx, InMemory.Net, Couchbase, VividCortex, Transversal, MemSQL, Scalyr, AiScaler, AppDynamics, ManageEngine, Site24x7
+Stuff The Internet Says On Scalability For February 27th, 2015
+Stuff The Internet Says On Scalability For January 30th, 2015
+Linus: The whole "parallel computing is the future" is a bunch of crock.
+Make Any Framework Suck Less With These 10 Insightful Lessons
+Stuff The Internet Says On Scalability For October 31st, 2014
+Sponsored Post: Apple, Flipboard, All Your Base, Scalyr, FoundationDB, AiScaler, Aerospike, AppDynamics, ManageEngine, Site24x7
+Stuff The Internet Says On Scalability For August 29th, 2014
+Paper: ZooKeeper: Wait-free coordination for Internet-scale systems
+Data Doesn't Need to Be Free, But it Does Need to Have Sex 
+Sponsored Post: Apple, Blizzard Entertainment, Cloudant, CopperEgg, Logentries, Wargaming.net, PagerDuty, HelloSign, CrowdStrike, Gengo, ScaleOut Software, Couchbase, MongoDB, BlueStripe, AiScaler, Aerospike, LogicMonitor, AppDynamics, ManageEngine, Site24x7  
+10 Tips for Optimizing NGINX and PHP-fpm for High Traffic Sites
+How WhatsApp Grew to Nearly 500 Million Users, 11,000 cores, and 70 Million Messages a Second
+Stuff The Internet Says On Scalability For February 28th, 2014
+Stuff The Internet Says On Scalability For January 31st, 2014
+Sponsored Post: Netflix, Logentries, Host Color, Booking, Spokeo, Apple, ScaleOut, MongoDB, BlueStripe, AiScaler, Aerospike, New Relic, LogicMonitor, AppDynamics, ManageEngine, Site24x7
+One Story of Life as Told Through Queues
+Paper: Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask
+Expandability: Steve Wozniak's Biggest Success and Nolan Bushnell's Biggest Regret
+Stuff The Internet Says On Scalability For August 30, 2013
+Sponsored Post: Apple, Surge, Change, Booking, Rackspace, aiCache, Aerospike, ScaleOut, New Relic, LogicMonitor, AppDynamics, ManageEngine, Site24x7
+Stuff The Internet Says On Scalability For June 28, 2013
+Stuff The Internet Says On Scalability For May 31, 2013
+Sponsored Post: Spotify, Evernote, Surge, Rackspace, Simple, Amazon, Booking, aiCache, Aerospike, Percona, ScaleOut, New Relic, LogicMonitor, AppDynamics, ManageEngine, Site24x7
+Stuff The Internet Says On Scalability For March 29, 2013
+42 Monster Problems that Attack as Loads Increase
+Better Browser Caching is More Important than No Javascript or Fast Networks for HTTP Performance
+Designing for Resiliency will be so 2013
+Stuff The Internet Says On Scalability For November 30, 2012
+Gone Fishin': LiveJournal Architecture
+Stuff The Internet Says On Scalability For September 28, 2012
+Stuff The Internet Says On Scalability For August 31, 2012
+Prismatic Architecture - Using Machine Learning on Social Networks to Figure Out What You Should Read on the Web 
+Stuff The Internet Says On Scalability For June 29, 2012 - The Velocity Edition
+Strategy: Get Servers for Free and Make Users Happy by Turning on Compression
+Masstree - Much Faster than MongoDB, VoltDB, Redis, and Competitive with Memcached
+Stuff The Internet Says On Scalability For March 30, 2012
+Strategy: Put Mobile Video Into Cold Storage After 30 Days
+Performance in the Cloud: Business Jitter is Bad
+Stuff The Internet Says On Scalability For December 30, 2011
+DataSift Architecture: Realtime Datamining at 120,000 Tweets Per Second
+15 Ways to Make Your Application Feel More Responsive under Google App Engine
+Stuff The Internet Says On Scalability For September 30, 2011
+Pud is the Anti-Stack - Windows, CFML, Dropbox, Xeround, JungleDisk, ELB
+Stuff The Internet Says On Scalability For July 29, 2011
+Second Hand Seizure : A New Cause of Site Death
+Awesome List of Advanced Distributed Systems Papers
+PaaS on OpenStack - Run Applications on Any Cloud, Any Time Using Any Thing
+8 Lessons We Can Learn from the MySpace Incident - Balance, Vision, Fearlessness
+A Practical Guide to Varnish - Why Varnish Matters
+Stuff The Internet Says On Scalability For January 28, 2011
+Facebook in 20 Minutes: 2.7M Photos, 10.2M Comments, 4.6M Messages
+NoCAP – Part III – GigaSpaces clustering explained..
+NoSQL Took Away the Relational Model and Gave Nothing Back
+More Troubles with Caching
+Pomegranate - Storing Billions and Billions of Tiny Little Files
+Basho Lives up to their Name With Consistent Smashing
+Paper: GraphLab: A New Framework For Parallel Machine Learning
+Scalable federated security with Kerberos 
+Hot Scalability Links for April 30, 2010
+Running Large Graph Algorithms - Evaluation of Current State-of-the-Art and Lessons Learned
+MySQL and Memcached: End of an Era?
+Hot Scalability Links for January 28 2010
+Terrastore - Scalable, elastic, consistent document store.
+Why Existing Databases (RAC) are So Breakable!
+Hot Scalabilty Links for October 30 2009
+How Ravelry Scales to 10 Million Requests Using Rails
+Scaling MySQL on Amazon Web Services
+NSFW: Hilarious Fault-Tolerance Cartoon 
+Hot New Trend: Linking Clouds Through Cheap IP VPNs Instead of Private Lines 
+Need help on Site loading & database optimization - URGENT
+Presentations: MySQL Conference & Expo 2009
+Ebay history and architecture
+Enterprise Architecture Conference by - John Zachman. Johannesburg (25th March) , Cape Town (27Th March)  Dubai (23rd March)
+Event: MySQL Conference & Expo 2009
+Scalability Perspectives #5: Werner Vogels – The Amazon Technology Platform
+Creating a high-performing online database 
+Olio Web2.0 Toolkit - Evaluate Web Technologies and Tools
+Scalability Worst Practices
+Paper: GargantuanComputing—GRIDs and P2P
+Ehcache - A Java Distributed Cache 
+ID generation schemes
+memcached and Storage of Friend list
+Rather small site architecture.
+Read HighScalability on Your Mobile Phone Using WidSets Widgets
+Product: System Imager - Automate Deployment and Installs
+The AOL XMPP scalability challenge
+Product: collectd
+Strategy: Efficiently Geo-referencing IPs
+Paper: Dynamo: Amazon’s Highly Available Key-value Store
+Kosmos File System (KFS) is a New High End Google File System Option
+Log Everything All the Time
