@@ -15,7 +15,7 @@ def get_src(site,args):
   #webbrowser.open(site+args)
     req = requests.get(site+args)
     if not req:
-        print 'Connection Failed for '+site
+        print ('Connection Failed for '+site)
         return None
     soup = bs4.BeautifulSoup(req.text,"html.parser")
     return soup
@@ -40,7 +40,7 @@ def show_amz(args):
     ctr = 0
     for pr in  soup.select('a.a-link-normal.a-text-normal > span.a-size-base.a-color-price.s-price.a-text-bold'):
         x = re.findall(r'([\d\,\.]+)',str(pr.get_text))
-        print 'Amazon ->',title[ctr]+': ',x[3]
+        print ('Amazon ->',title[ctr]+': ',x[3])
         ctr += 1
         if ctr==5:
             break
@@ -74,7 +74,7 @@ def show_flip(args):
     
     flip_result=dict(zip(price,product,))
     for price,prd in flip_result.items():
-        print 'FlipKart'+'-> '+prd+':'+price
+        print ('FlipKart'+'-> '+prd+':'+price)
 
 def show_snap(args):
     res = 5
@@ -96,25 +96,25 @@ def show_snap(args):
         
     snap_result = dict(zip(price,product))
     for price,prd in snap_result.items():
-        print 'SnapDeal'+'-> '+prd+':'+price
+        print ('SnapDeal'+'-> '+prd+':'+price)
         
 def main(args):
-    print 'Pulling Request from Web.......\n'
+    print ('Pulling Request from Web.......\n')
     show_flip(args)
-    print '                        ----------------------------------------------------------------------------------------------------------------------------'
+    print ('                        ----------------------------------------------------------------------------------------------------------------------------')
     show_snap(args) 
     
-    print '                        ----------------------------------------------------------------------------------------------------------------------------'
+    print ('                        ----------------------------------------------------------------------------------------------------------------------------')
     show_amz(args)
 
-    print '                        ----------------------------------------------------------------------------------------------------------------------------'
+    print ('                        ----------------------------------------------------------------------------------------------------------------------------')
 if __name__ == '__main__':
     args = sys.argv[1:]
     if not args:
-        print "Usage:- [search query] => will give results of search query from amazon,flipkart,snapdeal, no args it will give result from main page  of these shopping site"
+        print ("Usage:- [search query] => will give results of search query from amazon,flipkart,snapdeal, no args it will give result from main page  of these shopping site")
     args = ' '.join(args)
     main(args)
-    query=raw_input('>> q(quit), open web page with : az(amazon),fk(flipkart),sd(snapdeal) :')
+    query=input('>> q(quit), open web page with : az(amazon),fk(flipkart),sd(snapdeal) :')
     if query == 'az':
         openweb(amazon+args)
     elif query == 'fk':
